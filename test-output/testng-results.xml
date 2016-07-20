@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19067" started-at="2016-07-19T15:48:21Z" finished-at="2016-07-19T15:48:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19067" started-at="2016-07-19T15:48:21Z" finished-at="2016-07-19T15:48:40Z">
+      <class name="com.JanardhanRandhi.testZimbra">
+        <test-method status="PASS" signature="testingZimbra()[pri:0, instance:com.JanardhanRandhi.testZimbra@3132c615]" name="testingZimbra" duration-ms="19057" started-at="2016-07-19T21:18:21Z" finished-at="2016-07-19T21:18:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingZimbra -->
+      </class> <!-- com.JanardhanRandhi.testZimbra -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
